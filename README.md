@@ -1,2 +1,2 @@
-# Godot--Multiplayer-Dedicated-Server-Sample
-2 Player Multiplayer Dedicated Server Project sample
+# Godot Multiplayer Dedicated Server Sample
+A demo that explores Godot's high level multiplayer system.
