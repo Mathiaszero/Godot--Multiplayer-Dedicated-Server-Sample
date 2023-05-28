@@ -1,7 +1,7 @@
 # Godot Multiplayer Dedicated Server Sample
 A demo that explores Godot's high level multiplayer system, optimized for 3.5.2 Mohno.  As long as the project is not in a finished state, it will be exported as a pre-release. As of v5.0, this is the first working proof of concept release.
 
-To download, go to the release section. Unzip the archive and place the project in the Projects directory of Godot. Use the project.godot file to open in Godot, or open the Godot binary itself and select the project.  Ensure that the port, max clients, and IP address is set. Depending if testing locally or not, the IP address will vary according to your computer's network settings.  Two ways to run include using the play button within the client, or the command .\godot --path <project path>. If the code supports starting in server, then add --s header at end of command.
+To download, go to the release section. Unzip the archive and place the project in the Projects directory of Godot. Use the project.godot file to open in Godot, or open the Godot binary itself and select the project.  Ensure that the port, max clients, and IP address is set. Depending if testing locally or not, the IP address will vary according to your computer's network settings.  Two ways to run include using the play button within the Godot program, or the command .\godot --path <project path>. If the code supports starting in server, then add --s header at end of command.
 
 # Limitations
 -One room only.
