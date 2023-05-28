@@ -5,4 +5,7 @@ To download, go to the release section. Unzip the archive and place the project 
 
 # Limitations
 -One room only.
+
 -Room only starts when the required player count is met; if there is less than the amount of required players, it won't start.
+
+-Unoptimized: at current state, the code is not optimized and will cause lag, latency, and other issues when running more than 2 players.
